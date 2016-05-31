@@ -14,3 +14,10 @@ animates three triangles and a cube by rotating them in 3D space with the mouse 
 
 project 3. Addons 
 Utilizes ofxFaceTracker to “censor” the viewers eyes. 
+
+FINAL:
+Requires a kinect, uses Dan Wilcox's QDTracker for overhead tracking.
+The prgram draws a skitish butterfly that flies away if you get too close. 
+If you don't makw the butterfly move, a field of flowers will grow around the butterfly. 
+
+
