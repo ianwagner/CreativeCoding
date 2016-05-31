@@ -1,4 +1,0 @@
-ofxKinect
-ofxOpenCv
-ofxOsc
-ofxXmlSettings
