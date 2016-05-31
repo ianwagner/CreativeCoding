@@ -3,19 +3,21 @@ University of Denver - EDP
 Creative Coding 
 Professor Dan Wilcox 
 
-/Users/ianwagner/Desktop/screenshot.png
-
-Project 1. Face 
+exercise 1. Face 
 draws a spooked face 
 the pupils will follow the mouse position 
 press the mouse to turn on the light
 
-Project 2. Interaction and Animation 
+exercise 2. Interaction and Animation 
 animates three triangles and a cube by rotating them in 3D space with the mouse position
 
-project 3. Addons 
+exercise 3. Addons 
 Utilizes ofxFaceTracker to “censor” the viewers eyes. 
 
+project 1: 
+Uses ofbox2d to randomly generate japanese inspured flowers
+
+project 2:
 FINAL:
 Requires a kinect, uses Dan Wilcox's QDTracker for overhead tracking.
 The prgram draws a skitish butterfly that flies away if you get too close. 
