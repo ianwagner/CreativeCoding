@@ -20,7 +20,7 @@ Uses ofbox2d to randomly generate japanese inspured flowers
 project 2:
 FINAL:
 Requires a kinect, uses Dan Wilcox's QDTracker for overhead tracking.
-The prgram draws a skitish butterfly that flies away if you get too close. 
-If you don't makw the butterfly move, a field of flowers will grow around the butterfly. 
+The prgram draws a skittish butterfly that flies away if you get too close. 
+If you don't make the butterfly move, a field of flowers will grow. 
 
 
