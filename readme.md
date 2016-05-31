@@ -3,6 +3,7 @@ University of Denver - EDP
 Creative Coding 
 Professor Dan Wilcox 
 
+/Users/ianwagner/Desktop/screenshot.png
 
 Project 1. Face 
 draws a spooked face 
