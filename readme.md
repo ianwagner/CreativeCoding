@@ -14,7 +14,7 @@ animates three triangles and a cube by rotating them in 3D space with the mouse 
 exercise 3. Addons 
 Utilizes ofxFaceTracker to “censor” the viewers eyes. 
 
-project 1: 
+project 1: (on own repository) 
 Uses ofbox2d to randomly generate japanese inspured flowers
 
 project 2:
